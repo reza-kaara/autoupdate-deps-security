@@ -1,4 +1,4 @@
 flask==2.3.3
-werkzeug==2.3.8
+werkzeug==3.0.6
 requests==2.32.5
-urllib3==1.26.20
+urllib3==2.5.0
