@@ -1,2 +1,2 @@
-# autoupdate-deps-security
-Testbed for dependency bots with a focus on security vulnerabilities.
+# vulnerability-alerts-gradle
+A testbed for observing how GitHub detects and alerts about vulnerabilities.
